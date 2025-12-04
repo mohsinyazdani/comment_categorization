@@ -12,6 +12,14 @@ An advanced **comment categorization system** powered by **DistilBERT**, a state
 
 ---
 
+## 🎥 Demo
+
+Watch the application in action:
+
+https://github.com/mohsinyazdani/comment_categorization/assets/comment.mp4
+
+---
+
 ## ✨ Features
 
 - **🤖 DistilBERT Model**: State-of-the-art transformer architecture with 66M parameters
