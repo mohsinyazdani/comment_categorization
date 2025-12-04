@@ -1,7 +1,7 @@
 # Comment Categorization & Reply Assistant Tool
 
 <div align="center">
-  <img src="assets/comment_categorization_logo.png" alt="Comment Categorization Logo" width="200"/>
+  <img src="assets/comment_categorization_logo.png" alt="Comment Categorization Logo" width="400"/>
 </div>
 
 ## 🎯 Overview
