@@ -16,7 +16,9 @@ An advanced **comment categorization system** powered by **DistilBERT**, a state
 
 Watch the application in action:
 
-https://github.com/mohsinyazdani/comment_categorization/assets/comment.mp4
+https://github.com/mohsinyazdani/comment_categorization/raw/main/assets/comment.mp4
+
+Or view it directly in the repository: [Download Demo Video](assets/comment.mp4)
 
 ---
 
